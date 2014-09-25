@@ -1,0 +1,105 @@
+<html>
+<head>
+
+	<style type="text/css">
+	#mynavbar{
+		background-color:#009900;
+	}
+	.navbar-inverse{
+		background-color:#009900;
+	}
+	table.matrix {
+
+		border-spacing: 40px;
+		border:0px;
+		height: 10%;
+		width: 500px
+			}
+	h1{background:#FF2400;
+		height:15%;
+		padding: 20;
+	}
+
+
+	
+	</style>
+
+
+	<title>bshungerrecipes categories</title>
+	<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+	
+</head>
+
+<body>
+	<div class="container">
+
+	<div class="rows">
+	<div class="col-md-2">	
+	</div>	
+
+	<div class="col-md-8"> <h1>HUNGER RECIPES</h1>
+			
+
+		<nav class="navbar navbar-inverse" role="navigation" id="my navbar">
+		
+			<ul class="nav navbar-nav">
+				<li> <a href="2bshungerrecipes2.html">Top Viewed </a></li>
+				<li> <a href="#">Categories </a></li>
+				<li> <a href="2bshungerrecipes3.html">Splurge </a></li>
+			</ul>		
+		</nav>
+
+
+		<h3>Categories</h3>
+			<table summary="" class="matrix">
+
+		<tr>
+			<td><a href="2bshungerrecipes4.html">Soups</td></a> 
+			<td><a href="#">Chaats</td></a> 
+			<td><a href="#">Salads</td></a> 
+			
+		</tr>
+		<tr>
+			<td><a href="#">Sandwiches</td></a> 
+			<td><a href="#">Snacks</td></a>
+			<td><a href="#">Beverages</td></a> 
+
+		</tr>
+		<tr>
+			<td><a href="#">Rolls</td></a> 
+			<td><a href="#">Pizza</td></a> 
+			<td><a href="#">Desserts</td></a> 
+			</tr>
+			</table>
+<!--		
+		<ul class="list-inline">
+			<li><a href="#">Soups</a></li>
+			<li><a href="#">Chaats</a></li>
+			<li><a href="#">Salads</a></li>
+		</ul>
+
+		<ul class="list-inline">
+			<li><a href="#">Sandwiches</a></li>
+			<li><a href="#">Snacks</a></li>
+			<li><a href="#">Beverages</a></li>
+		</ul>
+-->
+
+	</div>
+
+
+
+
+
+	</div>
+	</div>
+
+</body>
+</html>
